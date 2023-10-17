@@ -1,2 +1,2 @@
 # extra_develops
-This is a [WIP] repo for web app development and sql data manipulation
+This [WIP] repo for web app development using django framework serves the task of responding to detection requests from React frontend through the django Rest API.
